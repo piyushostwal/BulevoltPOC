@@ -1,0 +1,15 @@
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Bluevolt.POC.Business.Tests.dll
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Bluevolt.POC.Business.Tests.pdb
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Bluevolt.POC.Business.dll
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Bluevolt.POC.Common.dll
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Bluevolt.POC.Business.pdb
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Bluevolt.POC.Common.pdb
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\obj\Debug\Bluevolt.POC.Business.Tests.csprojResolveAssemblyReference.cache
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\obj\Debug\Bluevolt.POC.Business.Tests.dll
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\obj\Debug\Bluevolt.POC.Business.Tests.pdb
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\nunit.framework.dll
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\nunit.framework.xml
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+G:\Repository\BlueVolt\Tests\Bluevolt.POC.Business.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml

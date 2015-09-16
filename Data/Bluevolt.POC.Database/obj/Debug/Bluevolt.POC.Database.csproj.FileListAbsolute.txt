@@ -1,0 +1,12 @@
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\Bluevolt.POC.Database.dll.config
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\Bluevolt.POC.Database.dll
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\Bluevolt.POC.Database.pdb
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\Bluevolt.POC.Common.dll
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\EntityFramework.dll
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\EntityFramework.SqlServer.dll
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\Bluevolt.POC.Common.pdb
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\EntityFramework.xml
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\bin\Debug\EntityFramework.SqlServer.xml
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\obj\Debug\Bluevolt.POC.Database.csprojResolveAssemblyReference.cache
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\obj\Debug\Bluevolt.POC.Database.dll
+G:\Repository\BlueVolt\Data\Bluevolt.POC.Database\obj\Debug\Bluevolt.POC.Database.pdb

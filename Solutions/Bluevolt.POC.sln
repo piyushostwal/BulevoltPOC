@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluevolt.POC.Business", "..\Business\Bluevolt.POC.Business\Bluevolt.POC.Business.csproj", "{26BFD623-76A5-41C6-9E89-1662DBECFDC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluevolt.POC.Database", "..\Data\Bluevolt.POC.Database\Bluevolt.POC.Database.csproj", "{916CFC73-2771-432B-B2CF-126D8DFC1C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluevolt.POC.Web", "..\Presentation\Bluevolt.POC.Web\Bluevolt.POC.Web.csproj", "{2EC1FCC1-4D65-4B12-8A5C-4C7EF585E9F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{FBF2B822-3F38-4F39-83A0-83632DAE66E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7FC62F47-72CD-4325-81D5-B57DC58C3FEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{597AB6AF-B1CF-4C14-B15E-8C1306C6380C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluevolt.POC.Common", "..\Business\Bluevolt.POC.Common\Bluevolt.POC.Common.csproj", "{0D65239B-2576-4073-A0F6-1D30D8D92157}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{D8F122AA-3905-4771-A619-900CEF773A1B}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluevolt.POC.TestDao", "..\Business\Bluevolt.POC.TestDao\Bluevolt.POC.TestDao.csproj", "{6794119B-718E-45EA-BDFE-54AFDE4ACAC3}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://onlinetest.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\Business\\Bluevolt.POC.Business\\Bluevolt.POC.Business.csproj
+		SccProjectTopLevelParentUniqueName1 = Bluevolt.POC.sln
+		SccProjectName1 = ../Business/Bluevolt.POC.Business
+		SccLocalPath1 = ..\\Business\\Bluevolt.POC.Business
+		SccProjectUniqueName2 = ..\\Data\\Bluevolt.POC.Database\\Bluevolt.POC.Database.csproj
+		SccProjectTopLevelParentUniqueName2 = Bluevolt.POC.sln
+		SccProjectName2 = ../Data/Bluevolt.POC.Database
+		SccLocalPath2 = ..\\Data\\Bluevolt.POC.Database
+		SccProjectUniqueName3 = ..\\Presentation\\Bluevolt.POC.Web\\Bluevolt.POC.Web.csproj
+		SccProjectTopLevelParentUniqueName3 = Bluevolt.POC.sln
+		SccProjectName3 = ../Presentation/Bluevolt.POC.Web
+		SccLocalPath3 = ..\\Presentation\\Bluevolt.POC.Web
+		SccProjectUniqueName4 = ..\\Business\\Bluevolt.POC.Common\\Bluevolt.POC.Common.csproj
+		SccProjectTopLevelParentUniqueName4 = Bluevolt.POC.sln
+		SccProjectName4 = ../Business/Bluevolt.POC.Common
+		SccLocalPath4 = ..\\Business\\Bluevolt.POC.Common
+		SccProjectUniqueName5 = ..\\Business\\Bluevolt.POC.TestDao\\Bluevolt.POC.TestDao.csproj
+		SccProjectTopLevelParentUniqueName5 = Bluevolt.POC.sln
+		SccProjectName5 = ../Business/Bluevolt.POC.TestDao
+		SccLocalPath5 = ..\\Business\\Bluevolt.POC.TestDao
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26BFD623-76A5-41C6-9E89-1662DBECFDC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BFD623-76A5-41C6-9E89-1662DBECFDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BFD623-76A5-41C6-9E89-1662DBECFDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BFD623-76A5-41C6-9E89-1662DBECFDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916CFC73-2771-432B-B2CF-126D8DFC1C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916CFC73-2771-432B-B2CF-126D8DFC1C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916CFC73-2771-432B-B2CF-126D8DFC1C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916CFC73-2771-432B-B2CF-126D8DFC1C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC1FCC1-4D65-4B12-8A5C-4C7EF585E9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC1FCC1-4D65-4B12-8A5C-4C7EF585E9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC1FCC1-4D65-4B12-8A5C-4C7EF585E9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC1FCC1-4D65-4B12-8A5C-4C7EF585E9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D65239B-2576-4073-A0F6-1D30D8D92157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D65239B-2576-4073-A0F6-1D30D8D92157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D65239B-2576-4073-A0F6-1D30D8D92157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D65239B-2576-4073-A0F6-1D30D8D92157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6794119B-718E-45EA-BDFE-54AFDE4ACAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6794119B-718E-45EA-BDFE-54AFDE4ACAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6794119B-718E-45EA-BDFE-54AFDE4ACAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6794119B-718E-45EA-BDFE-54AFDE4ACAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{26BFD623-76A5-41C6-9E89-1662DBECFDC7} = {FBF2B822-3F38-4F39-83A0-83632DAE66E8}
+		{916CFC73-2771-432B-B2CF-126D8DFC1C2F} = {597AB6AF-B1CF-4C14-B15E-8C1306C6380C}
+		{2EC1FCC1-4D65-4B12-8A5C-4C7EF585E9F6} = {7FC62F47-72CD-4325-81D5-B57DC58C3FEF}
+		{0D65239B-2576-4073-A0F6-1D30D8D92157} = {FBF2B822-3F38-4F39-83A0-83632DAE66E8}
+		{6794119B-718E-45EA-BDFE-54AFDE4ACAC3} = {597AB6AF-B1CF-4C14-B15E-8C1306C6380C}
+	EndGlobalSection
+EndGlobal

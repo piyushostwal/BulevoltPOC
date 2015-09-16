@@ -1,0 +1,7 @@
+G:\Repository\BlueVolt\Business\Bluevolt.POC.TestDao\bin\Debug\Bluevolt.POC.TestDao.dll
+G:\Repository\BlueVolt\Business\Bluevolt.POC.TestDao\bin\Debug\Bluevolt.POC.TestDao.pdb
+G:\Repository\BlueVolt\Business\Bluevolt.POC.TestDao\bin\Debug\Bluevolt.POC.Common.dll
+G:\Repository\BlueVolt\Business\Bluevolt.POC.TestDao\bin\Debug\Bluevolt.POC.Common.pdb
+G:\Repository\BlueVolt\Business\Bluevolt.POC.TestDao\obj\Debug\Bluevolt.POC.TestDao.csprojResolveAssemblyReference.cache
+G:\Repository\BlueVolt\Business\Bluevolt.POC.TestDao\obj\Debug\Bluevolt.POC.TestDao.dll
+G:\Repository\BlueVolt\Business\Bluevolt.POC.TestDao\obj\Debug\Bluevolt.POC.TestDao.pdb
